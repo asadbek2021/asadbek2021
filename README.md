@@ -1,6 +1,6 @@
 ### Hi there 👋, Asadbek Raimov
 #### Frontend and Backend Development
-![Frontend and Backend Development](https://media-exp1.licdn.com/dms/image/C4D16AQFm1TjhRFvY3Q/profile-displaybackgroundimage-shrink_200_800/0/1642686779100?e=1648684800&v=beta&t=bZ0X-AijBfRmArg6843dsoESQv1-uya-mkYa0J2PN1s)
+![Frontend and Backend Development](https://media-exp1.licdn.com/dms/image/C4D16AQFXGCbwq5Yv8w/profile-displaybackgroundimage-shrink_350_1400/0/1645886802077?e=1651708800&v=beta&t=yXH6UIBIbJ9FXplp7BWBQTtQe19LWHIa_kqd0BqA79k)
 
 I'm Asadbek from Uzbekistan, and I'm a Junior Frontend Developer. I really enjoy learning languages and frameworks like Vue and React. I also work with backend technologies like Node.js, and it's framework Express and Fastify. You can check out my linkedin at [LinkedIn](https://www.linkedin.com/in/asadbek-raimov-b700881ba/).
 
