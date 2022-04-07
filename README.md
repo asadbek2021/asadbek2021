@@ -7,8 +7,8 @@ I'm Asadbek from Uzbekistan, and I'm a Junior Frontend Developer. I really enjoy
 
 ## Skills and Experience
 * 🖥️ HTML, CSS, JS
-* 🌐 NODE, EXPRESS, FASTIFY, TYPESCRIPT, DOCKER, JEST
-* ⚛️ React
+* 🌐 NODE, EXPRESS, FASTIFY, TYPESCRIPT, MONGO, POSTGRESQL, DOCKER, JEST
+* 🅰 Angular
 
 ## Examples of Work
 <img src="https://github.com/asadbek2021/asadbek2021/blob/main/ezgif.com-gif-maker.gif" alt="gif" width=290 height=310> <img src="https://github.com/asadbek2021/asadbek2021/blob/main/ezgif.com-gif-maker%20(1).gif" alt="gif" width=290 height=310> <img src="https://github.com/asadbek2021/asadbek2021/blob/main/adaptive-site.gif" alt="gif" width=290 height=310>
