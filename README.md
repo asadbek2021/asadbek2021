@@ -1,6 +1,6 @@
-### Hi there 👋, Asadbek Raimov
+### Hi there 👋, Asadbek Raimov (Software Developer at EPAM Anywhere)
 #### Frontend and Backend Development
-![Frontend and Backend Development]([https://media-exp1.licdn.com/dms/image/C4D16AQFXGCbwq5Yv8w/profile-displaybackgroundimage-shrink_350_1400/0/1645886802077?e=1651708800&v=beta&t=yXH6UIBIbJ9FXplp7BWBQTtQe19LWHIa_kqd0BqA79k](https://media-exp1.licdn.com/dms/image/C4D16AQHuIobo8-WxLw/profile-displaybackgroundimage-shrink_350_1400/0/1652043782631?e=1658966400&v=beta&t=Rftp7ENP16_Bl6K6V7F85beDSnx_pMPW8hgFSmbuFaI))
+
 
 I'm Asadbek from Uzbekistan, and I'm a Junior Frontend Developer. I really enjoy learning languages and frameworks like Vue and React. I also work with backend technologies like Node.js, and it's framework Express and Fastify. You can check out my linkedin at [LinkedIn](https://www.linkedin.com/in/asadbek-raimov-b700881ba/).
 
